@@ -5,6 +5,8 @@
 
 ## 💬 About Me
 
+**_Live Website_** : [See here](https://jo-sh.vercel.app)
+
 🎓 I'm a second-year Computer Engineering student at **Thadomal Shahani Engineering College**, Mumbai.  
 💡 I’m passionate about building useful tools.  
 🌱 Currently learning **Node.js**, **Express.js**, **Java**, and **C++**.  
@@ -16,7 +18,7 @@
 - 🌱 I’m currently learning **Node.js, Express.js, Java, and C++**.
 - 👯 I’m looking to collaborate on [PDF-Toolkit](https://github.com/journeycodesayush/pdf-toolkit).
 - 💼 All of my projects are available at [my GitHub profile](https://github.com/journeycodesayush).
-- 📫 How to reach me: **journeycodes.ayush@gmail.com**.
+- 📫 How to reach me: [journeycodes.ayush@gmail.com](mailto:journeycodes.ayush@gmail.com).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
