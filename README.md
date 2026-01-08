@@ -1,31 +1,29 @@
 <h1 align="center">Hi 👋, I'm Ayush Dubey</h1>
 <h3 align="center">A passionate tech enthusiast from India 🇮🇳</h3>
 
-<!-- 🧠 About Me section goes here -->
+# 💫 About Me
 
-## 💬 About Me
+Curiosity-driven engineer exploring **small tools, utilities, and programming experiments**.
 
-**_Live Website_** : [See here](https://jo-sh.vercel.app)
-
-🎓 I'm a second-year Computer Engineering student at **Thadomal Shahani Engineering College**, Mumbai.  
-💡 I’m passionate about building useful tools.  
-🌱 Currently learning **Node.js**, **Express.js**, **Java**, and **C++**.  
-🚀 Always open to collaborating on exciting open-source or student projects!
+I usually **prototype first**, then refine, motivated by **learning, curiosity, and solving small problems**, rather than building products for the sake of it.
 
 ---
 
-- 🔭 I’m currently working on [PDF-Toolkit](https://github.com/journeycodesayush/pdf-toolkit).
-- 🌱 I’m currently learning **Node.js, Express.js, Java, and C++**.
-- 👯 I’m looking to collaborate on [PDF-Toolkit](https://github.com/journeycodesayush/pdf-toolkit).
-- 💼 All of my projects are available at [my GitHub profile](https://github.com/journeycodesayush).
-- 📫 How to reach me: [journeycodes.ayush@gmail.com](mailto:journeycodes.ayush@gmail.com).
+## 🌐 Socials
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/journeycodesayush/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/journeycodesayush/" height="30" width="40" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/journeycodesayush/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/journeycodesayush)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:journeycodes.ayush@gmail.com)
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+## 🌐 Portfolio
+
+Check my interactive portfolio: [JO-SH](https://jo-sh.vercel.app)
+
+---
+
+## 💻 Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
@@ -40,8 +38,29 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=journeycodesayush&show_icons=true&locale=en&layout=compact" alt="journeycodesayush" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=journeycodesayush&show_icons=true&locale=en" alt="journeycodesayush" /></p>
+## 🛠️ Projects (Curiosity-driven & Problem-solving)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=journeycodesayush&" alt="journeycodesayush" /></p>
+- **[PDF-Toolkit](https://github.com/journeycodesayush/pdf-toolkit)**
+  Local Python desktop tool to merge, split, and rename PDFs. GUI + Windows executables to solve a real problem.
+
+- **[CPP-CLOC](https://github.com/journeycodesayush/cpp-cloc)**
+  C++17 command-line tool reimplementing `cloc`. Explored multi-language support and scalable architecture.
+
+- **[JavaBhaiLang](https://github.com/journeycodesayush/javabhailang)**
+  Interpreter for a toy programming language. Implemented lexer, parser, AST evaluation, and execution pipeline.
+
+- **[TS-Bhai](https://github.com/journeycodesayush/ts-bhai)**
+  Web playground for Bhailang (TypeScript + React). Minimal frontend to explore language execution in-browser.
+
+- **[JO-SH](https://jo-sh.vercel.app)**
+  Terminal-inspired portfolio website showcasing projects with command parsing and interactive shell UI.
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=journeycodesayush&theme=dark&show_icons=true&locale=en)
+![](https://github-readme-streak-stats.herokuapp.com/?user=journeycodesayush&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=journeycodesayush&theme=dark&layout=compact)
