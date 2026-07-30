@@ -1,0 +1,68 @@
+\documentclass[10pt]{article}
+\usepackage[a4paper,margin=1in]{geometry}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{titlesec}
+\titleformat{\section}{\large\bfseries}{}{0em}{}[\titlerule]
+% ---- Subsection (project title) styling ----
+\titleformat{\subsection}
+  {\normalsize\bfseries}
+  {}
+  {0em}
+  {}
+\titlespacing*{\subsection}
+  {0pt}
+  {0.6em}
+  {0.3em}
+\begin{document}
+\begin{center}
+    {\LARGE \textbf{Ayush Dubey}}\\
+    Mumbai, India \\
+    +91 72083 30327 \ | \ \href{mailto:journeycodes.ayush@gmail.com}{journeycodes.ayush@gmail.com} \\
+    \href{https://github.com/JourneyCodesAyush}{github.com/JourneyCodesAyush} \ | \
+    \href{https://www.linkedin.com/in/journeycodesayush}{linkedin.com/in/ayush-dubey}
+\end{center}
+\section*{Education}
+\textbf{Thadomal Shahani Engineering College, Mumbai} \hfill 2024 -- 2028\\
+B.E. in Computer Engineering \\
+CGPA: 9.3 (Semester I \& II)
+\section*{Skills}
+\textbf{Programming Languages:} C, C++, Java, Python, TypeScript \\
+\textbf{Core Concepts:} Data Structures \& Algorithms, OOP, Parsing \& Interpreters, File Handling \\
+\textbf{Tools \& Platforms:} Git, GitHub, React (basic), Tkinter
+\section*{Projects}
+\subsection*{Twig - Self-Hosting Git Implementation in C++}
+\begin{itemize}[noitemsep]
+    \item Built a Git implementation from scratch in C++20, covering object hashing, zlib compression, index management, ref resolution, and commits.
+    \item Implemented commands including \texttt{init}, \texttt{add}, \texttt{commit}, \texttt{log}, \texttt{status}, \texttt{checkout}, and \texttt{rev-parse}.
+    \item Reached self-hosting status: a commit in the repository's own history was made using Twig itself.
+\end{itemize}
+\subsection*{JavaBhaiLang - Java Interpreter for a Toy Programming Language}
+\begin{itemize}[noitemsep]
+    \item Implemented an interpreter inspired by concepts from \textit{Crafting Interpreters}.
+    \item Built lexical analysis, parsing, AST evaluation, and execution pipeline.
+    \item Maintained semantic versioning (v0.10.0) with \~120 commits.
+\end{itemize}
+\subsection*{PDF-toolkit - Python Desktop Application}
+\begin{itemize}[noitemsep]
+    \item Built a local desktop tool to merge, split, and rename PDF files, eliminating dependency on online tools.
+    \item Designed modular backend logic with a GUI layer using Tkinter.
+    \item Maintained versioned releases (v1.3.0) with \~245 commits.
+\end{itemize}
+\subsection*{CPP-CLOC - C++17 Command-Line Tool}
+\begin{itemize}[noitemsep]
+    \item Reimplemented the \texttt{cloc} utility in C++17 to explore scalable parsing design.
+    \item Designed an extensible architecture supporting multiple languages.
+\end{itemize}
+\section*{Experience}
+\textbf{Content Creator - YouTube (Ayush Ki Journey)} \hfill 2022 -- Present
+\begin{itemize}[noitemsep]
+    \item Produced 75+ videos focused on learning, consistency, and student life.
+\end{itemize}
+\section*{Achievements \& Activities}
+\begin{itemize}[noitemsep]
+    \item Solved 330+ DSA problems on LeetCode with a 150-day consistency streak.
+    \item Participated in Newbiethon (IETE-TSEC Hackathon).
+    \item Completed \#100DaysOfCode challenge.
+\end{itemize}
+\end{document}
